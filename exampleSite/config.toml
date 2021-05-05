@@ -1,4 +1,4 @@
-baseURL = "http://nutriwisepnh.netlify.app"
+baseURL = "https://nutriwisepnh.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
