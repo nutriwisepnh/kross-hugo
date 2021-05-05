@@ -20,11 +20,11 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
+address = "Street 446, Tuol Tom Pong, Phnom Penh, Cambodia"
+author = "Melanie van Gendt"
 copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
-email = "steve.fruits@email.com"
+email = "nutriwisepnh@gmail.com"
 google_analytics_id = ""
 home = "Home"
 logo = ""
@@ -65,7 +65,7 @@ preloader = "images/preloader.gif"
 URL = "#"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
+URL = "#https://www.instagram.com/nutriwise_pnh/"
 icon = "ti-instagram"
 [[params.social]]
 URL = "#"
