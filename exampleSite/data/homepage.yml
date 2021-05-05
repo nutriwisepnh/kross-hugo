@@ -58,10 +58,14 @@ service:
   enable: true
   title: Services
   item:
-  - title: UI Design
+  - title: Dietary Analysis and consult
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: |
+      The plan includes:
+
+      * an initial intake assessment + food record
+      * two 30 minutes consultations
+      * a written report detailing your nutrient analysis and recommendations for improvement
     highlighted: false
   - title: UX Design
     icon: ti-vector
@@ -106,7 +110,7 @@ testimonial:
       consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
       esse cillum dolore eu fugiat nulla pariatur.
 clients_logo_slider:
-  enable: true
+  enable: false
   item:
   - logo: images/clients-logo/client-logo-1.png
     URL: http://examplesite.com
