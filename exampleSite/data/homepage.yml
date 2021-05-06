@@ -49,33 +49,31 @@ education:
   item:
   - title: 'MSc Nutritional Physiology and Health Status '
     year: "2014"
-    academy: Wageningen University and Research, the Netherlands
+    academy: Wageningen University and Research, The Netherlands
   - title: BSc Nutrition and Health
     year: "2012"
-    academy: Wageningen University and Research
+    academy: Wageningen University and Research, The Netherlands
 service:
   enable: true
   title: Services
   item:
-  - title: Dietary Analysis and consult
+  - title: 30 min introductory online meeting
     icon: ti-palette
     content: |
-      The plan includes:
 
-      * an initial intake assessment + food record
-      * two 30 minutes consultations
-      * a written report detailing your nutrient analysis and recommendations for improvement
     highlighted: false
-  - title: UX Design
+  - title: Dietary Analysis and Consultation
     icon: ti-vector
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: true
-  - title: Interaction Design
+    
+  - title: Nutrition Support for businesses and NGO's
     icon: ti-panel
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
+    
 portfolio:
   enable: false
   title: Portfolio
