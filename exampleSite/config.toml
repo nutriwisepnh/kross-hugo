@@ -27,7 +27,7 @@ description = "This is meta description"
 email = "nutriwisepnh@gmail.com"
 google_analytics_id = ""
 home = "Home"
-logo = "/images/websitelogo_v2.png"
+logo = "/images/websitelogo_v2-1.png"
 phone = "+880 2544 658 256"
 theme_color = "#7da59a"
 [params.contact]
