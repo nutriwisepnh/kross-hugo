@@ -54,26 +54,23 @@ education:
     year: "2012"
     academy: Wageningen University and Research, The Netherlands
 service:
-  enable: true
+  enable: false
   title: Services
   item:
   - title: 30 min introductory online meeting
     icon: ti-palette
-    content: |
-
+    content: ''
     highlighted: false
   - title: Dietary Analysis and Consultation
     icon: ti-vector
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: true
-    
   - title: Nutrition Support for businesses and NGO's
     icon: ti-panel
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
-    
 portfolio:
   enable: false
   title: Portfolio
